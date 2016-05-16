@@ -24,6 +24,8 @@ A curated list of links and resources about bots. PRs are welcome.
 - https://cloud.google.com/products/machine-learning/  
 - https://azure.microsoft.com/en-us/services/cognitive-services/  
 - https://github.com/paked/messenger  
+- https://hubot.github.com/  
+- http://errbot.io/en/latest/  
 
 ## Design a Bot
 - https://bots.mockuuups.com/  
