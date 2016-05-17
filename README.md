@@ -55,6 +55,11 @@ A curated list of links and resources about bots. PRs are welcome.
 ## Analyse your Bot
 - http://www.botlytics.co/  
 
+## Historic Bots
+- http://elizagen.org/
+- http://parrynoid.org/
+- https://tools.ietf.org/html/rfc439
+
 ## Talk about Bots
 - https://www.facebook.com/groups/chatbot/  
 - https://botmakers.org/
