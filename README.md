@@ -26,6 +26,9 @@ A curated list of links and resources about bots. PRs are welcome.
 - https://github.com/paked/messenger  
 - https://hubot.github.com/  
 - http://errbot.io/en/latest/  
+- https://www.rivescript.com/  
+- http://chatscript.sourceforge.net/  
+- http://www.alicebot.org/aiml.html  
 
 ## Design a Bot
 - https://bots.mockuuups.com/  
