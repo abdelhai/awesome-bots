@@ -1,7 +1,7 @@
 # Awesome Bots  
 A curated list of links and resources about bots. PRs are welcome.
 
-### [Get updated with new links](http://tinyletter.com/awesome-bots)  🤖🖖
+### [Get a weekly summary of everything bot related](http://tinyletter.com/awesome-bots)  🤖🖖
   
 ## Build a Bot
 - https://api.ai/  
