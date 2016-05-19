@@ -1,8 +1,9 @@
 # Awesome Bots  
 A curated list of links and resources about bots. PRs are welcome.
 
-### [Get a weekly summary of everything bot related](http://tinyletter.com/awesome-bots)  🤖🖖
-  
+### [Get a weekly summary of everything bot related](http://tinyletter.com/awesome-bots)  🤖🖖  
+#### [Check out Awesoeme Bot Devs](https://github.com/abdelhai/awesome-bot-devs) too, which is a list of bot developers.  
+
 ## Build a Bot
 - https://api.ai/  
 - https://wit.ai/ 
@@ -18,6 +19,7 @@ A curated list of links and resources about bots. PRs are welcome.
 
 ## Hack a Bot
 - https://howdy.ai/botkit/  
+- https://spacy.io/  
 - https://github.com/superscriptjs/superscript  
 - https://dev.botframework.com/  
 - https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html  
