@@ -24,6 +24,7 @@ A curated list of links and resources about bots. PRs are welcome.
 - http://www.nltk.org/  
 - https://github.com/nlp-compromise/nlp_compromise  
 - https://github.com/wit-ai/duckling  
+- https://adapt.mycroft.ai/  
 - https://github.com/superscriptjs/superscript  
 - https://dev.botframework.com/  
 - https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html  
