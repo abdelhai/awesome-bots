@@ -20,6 +20,10 @@ A curated list of links and resources about bots. PRs are welcome.
 ## Hack a Bot
 - https://howdy.ai/botkit/  
 - https://spacy.io/  
+- https://github.com/tensorflow/models/tree/master/syntaxnet  
+- http://www.nltk.org/  
+- https://github.com/nlp-compromise/nlp_compromise  
+- https://github.com/wit-ai/duckling  
 - https://github.com/superscriptjs/superscript  
 - https://dev.botframework.com/  
 - https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html  
@@ -39,6 +43,7 @@ A curated list of links and resources about bots. PRs are welcome.
 - https://heroku.com/  
 - https://www.pythonanywhere.com  
 - https://aws.amazon.com/de/lambda/  
+- https://stamplay.com/  
 
 ## Run a Bot
 - https://api.slack.com/bot-users  
