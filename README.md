@@ -15,7 +15,8 @@ A curated list of links and resources about bots. PRs are welcome.
 - https://meya.ai/  
 - https://flowxo.com/  
 - https://textit.in/  
-- https://rundexter.com/  
+- https://rundexter.com/
+- http://www.mrchatbot.com
 
 ## Hack a Bot
 - https://howdy.ai/botkit/  
