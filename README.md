@@ -16,6 +16,9 @@ A curated list of links and resources about bots. PRs are welcome.
 - https://flowxo.com/  
 - https://textit.in/  
 - https://rundexter.com/  
+- https://www.gupshup.io/developer/home  
+- http://backchannel.net/  
+- https://www.assi.st/  
 
 ## Hack a Bot
 - https://howdy.ai/botkit/  
