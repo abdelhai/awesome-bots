@@ -82,6 +82,7 @@ A curated list of links and resources about bots. PRs are welcome.
 ## Read about Bots
 - https://botwiki.org/  
 - https://botzine.org/  
+- http://www.chatbotsweekly.com/  
 - https://medium.com/chat-bots  
 - http://www.chatprime.com/resources/  
 - http://botnerds.com/  
