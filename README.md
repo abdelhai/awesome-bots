@@ -39,6 +39,7 @@ A curated list of links and resources about bots. PRs are welcome.
 - https://www.rivescript.com/  
 - http://chatscript.sourceforge.net/  
 - http://www.alicebot.org/aiml.html  
+- https://www.twilio.com/ip-messaging  
 
 ## Design a Bot
 - https://bots.mockuuups.com/  
