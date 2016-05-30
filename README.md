@@ -19,6 +19,7 @@ A curated list of links and resources about bots. PRs are welcome.
 - https://www.gupshup.io/developer/home  
 - http://backchannel.net/  
 - https://www.assi.st/  
+- https://stamplay.com/  
 
 ## Hack a Bot
 - https://howdy.ai/botkit/  
