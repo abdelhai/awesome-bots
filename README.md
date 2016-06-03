@@ -22,8 +22,8 @@ A curated list of links and resources about bots. PRs are welcome.
 - https://stamplay.com/  
 
 ## Hack a Bot
-- https://github.com/amitevski/botframework
-- https://howdy.ai/botkit/
+- https://howdy.ai/botkit/  
+- https://github.com/amitevski/botframework  
 - https://spacy.io/  
 - https://github.com/tensorflow/models/tree/master/syntaxnet  
 - http://www.nltk.org/  
