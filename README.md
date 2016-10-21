@@ -20,6 +20,8 @@ A curated list of links and resources about bots. PRs are welcome.
 - http://backchannel.net/  
 - https://www.assi.st/  
 - https://stamplay.com/  
+- https://dev.botframework.com/
+- https://claudiajs.com/claudia-bot-builder.html
 
 ## Hack a Bot
 - https://howdy.ai/botkit/  
@@ -45,6 +47,7 @@ A curated list of links and resources about bots. PRs are welcome.
 
 ## Design a Bot
 - https://bots.mockuuups.com/  
+- https://botsociety.io/
 
 ## Host a Bot
 - https://heroku.com/  
