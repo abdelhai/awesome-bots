@@ -1,5 +1,7 @@
+
 # Awesome Bots  
-A curated list of links and resources about bots. PRs are welcome.
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
+> A curated list of links and resources about bots. PRs are welcome.
 
 ### [Get a weekly summary of everything bot related](http://tinyletter.com/awesome-bots)  🤖🖖  
 #### [Check out Awesome Bot Devs](https://github.com/abdelhai/awesome-bot-devs) too, which is a list of bot developers.  
@@ -20,6 +22,8 @@ A curated list of links and resources about bots. PRs are welcome.
 - http://backchannel.net/  
 - https://www.assi.st/  
 - https://stamplay.com/  
+- https://dev.botframework.com/
+- https://claudiajs.com/claudia-bot-builder.html
 
 ## Hack a Bot
 - https://howdy.ai/botkit/  
@@ -45,6 +49,7 @@ A curated list of links and resources about bots. PRs are welcome.
 
 ## Design a Bot
 - https://bots.mockuuups.com/  
+- https://botsociety.io/
 
 ## Host a Bot
 - https://heroku.com/  
