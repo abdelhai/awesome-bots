@@ -91,7 +91,9 @@
 - https://botwiki.org/  
 - https://botzine.org/  
 - http://www.chatbotsweekly.com/  
-- https://medium.com/chat-bots  
+- https://chatbotsmagazine.com/  
+- https://chatbotslife.com/  
+- https://chatbotnewsdaily.com/  
 - http://www.chatprime.com/resources/  
 - http://botnerds.com/  
 - https://medium.com/chat-bots/non-techies-guide-to-building-bots-part-1-286bc93c92f9  
