@@ -99,7 +99,8 @@
 - https://medium.com/chat-bots/non-techies-guide-to-building-bots-part-1-286bc93c92f9  
 
 ## Fund a Bot
-- https://api.slack.com/slack-fund  
+- https://slack.com/developers/fund   
 - https://telegram.org/blog/botprize  
+- https://developers.facebook.com/fbstart/  
 - https://betaworks.com/  
 - http://www.greylock.com/  
