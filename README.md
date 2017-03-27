@@ -65,6 +65,7 @@
 - http://dev.wechat.com/wechatapi  
 
 ## List a Bot
+- https://thereisabotforthat.com/
 - https://botlist.co/  
 - https://www.botpages.com/  
 - http://www.slackbotlist.com/  
