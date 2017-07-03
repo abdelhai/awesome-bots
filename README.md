@@ -66,8 +66,7 @@
 
 ## List a Bot
 - https://thereisabotforthat.com/
-- https://botlist.co/  
-- https://www.botpages.com/  
+- https://botlist.co/
 - http://www.slackbotlist.com/  
 - https://slack.com/apps  
 - https://botarena.co/  
