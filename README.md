@@ -4,7 +4,6 @@
 > A curated list of links and resources about bots. PRs are welcome.
 
 ### [Get a weekly summary of everything bot related](http://tinyletter.com/awesome-bots)  🤖🖖
-#### [Check out Awesome Bot Devs](https://github.com/abdelhai/awesome-bot-devs) too, which is a list of bot developers.
 
 ## Build a Bot
 - https://api.ai/
@@ -19,11 +18,11 @@
 - https://textit.in/
 - https://rundexter.com/
 - https://www.gupshup.io/developer/home
-- http://backchannel.net/
-- https://www.assi.st/
+- http://www.assi.st/
 - https://stamplay.com/
 - https://dev.botframework.com/
 - https://claudiajs.com/claudia-bot-builder.html
+- https://hutoma.ai/
 
 ## Debug a Bot
 - https://www.chatbotproxy.com/
@@ -59,20 +58,19 @@
 - https://www.pythonanywhere.com
 - https://aws.amazon.com/de/lambda/
 - https://stamplay.com/
+- https://cloud.google.com/functions/
 
 ## Run a Bot
 - https://api.slack.com/bot-users
 - https://developers.facebook.com/products/messenger/
 - https://telegram.org/blog/bots-2-0
 - https://developer.microsoft.com/en-us/skype/bots
-- http://dev.wechat.com/wechatapi
+- http://open.wechat.com/
 
 ## List a Bot
 - https://thereisabotforthat.com/
 - https://botlist.co/
-- http://www.slackbotlist.com/  
-- https://slack.com/apps  
-- https://botarena.co/  
+- https://slack.com/apps
 - https://www.producthunt.com/  
 - https://storebot.me/  
 - http://botsbook.com/  
@@ -89,6 +87,7 @@
 - https://www.facebook.com/groups/chatbot/
 - https://botmakers.org/
 - http://devchat.devolio.net/ (#bots)
+- https://www.facebook.com/groups/botdesigners/
 
 ## Read about Bots
 - https://botwiki.org/
