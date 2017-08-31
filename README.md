@@ -48,6 +48,7 @@
 - http://chatscript.sourceforge.net/
 - http://www.alicebot.org/aiml.html
 - https://www.twilio.com/ip-messaging
+- [https://www.lita.io/](https://www.lita.io/): General-purpose bot-building tools in Ruby with Redis
 
 ## Design a Bot
 - https://bots.mockuuups.com/
