@@ -6,7 +6,7 @@
 ### [Get a weekly summary of everything bot related](http://tinyletter.com/awesome-bots)  🤖🖖
 
 ## Build a Bot
-- https://api.ai/
+- https://dialogflow.com/
 - https://wit.ai/
 - https://developer.pandorabots.com/
 - https://beepboophq.com/
