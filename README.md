@@ -74,7 +74,7 @@
 - https://slack.com/apps
 - https://www.producthunt.com/  
 - https://storebot.me/  
-- http://botsbook.com/  
+- http://msngers.com/
 
 ## Analyse your Bot
 - http://www.botlytics.co/
