@@ -78,6 +78,9 @@
 
 ## Analyse your Bot
 - http://www.botlytics.co/
+- https://bot-metrics.com/
+- https://botanalytics.co/
+- https://www.dashbot.io/
 
 ## Historic Bots
 - http://elizagen.org/
