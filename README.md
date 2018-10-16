@@ -107,3 +107,29 @@
 - https://developers.facebook.com/fbstart/
 - https://betaworks.com/
 - http://www.greylock.com/
+
+## Chat or chatbot based startups
+- [msg.ai - AI for Conversational Commerce](http://msg.ai/)
+- [wit.ai - Natural Language for Developers
+](https://wit.ai/)
+- [api.ai - Conversational UX platform](https://api.ai/)
+- [Chatfuel - Chatbot platform](http://chatfuel.com/)
+- [Prompt - Chatbot platform](http://promptapp.io/)
+- [Gupshup - Chatbot platform](https://www.gupshup.io)
+- [Magic - Text to get anything ondemand](https://getmagicnow.com/)
+- [Good service - get anything done over chat](http://www.goodservice.in/)
+- [Hyper - chat based Travel Agent](https://www.usehyper.com/)
+- [Cleverbot](http://www.cleverbot.com/)
+- [Sensay - The most helpful person you've never met](http://www.sensay.it/)
+- [Assist - Bring services to messaging apps](https://www.assi.st/)
+- [Botsociety - Chatbot design: preview, mockups, and export](https://botsociety.io)
+- [Notify - Conversational experiences that drive revenue] (http://www.notify.io)
+- [Backchannel - developer platform for building messaging bots] (http://dev.backchannel.net/)
+
+## Big chatbot platforms
+- [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
+- [Wechat official account](https://admin.wechat.com/)
+- [Slack](https://api.slack.com/bot-users)
+- [Facebook messenger](https://developers.facebook.com/docs/messenger-platform)
+- [Telegram](https://core.telegram.org/)
+- [Microsoft Bot Framework](https://dev.botframework.com/)
