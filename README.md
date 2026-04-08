@@ -23,6 +23,7 @@
 - https://dev.botframework.com/
 - https://claudiajs.com/claudia-bot-builder.html
 - https://hutoma.ai/
+- https://github.com/rekurt/ymsdk - Go SDK for Yandex Messenger Bot API
 
 ## Debug a Bot
 - https://www.chatbotproxy.com/
@@ -107,3 +108,4 @@
 - https://developers.facebook.com/fbstart/
 - https://betaworks.com/
 - http://www.greylock.com/
+
