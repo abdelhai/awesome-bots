@@ -68,6 +68,9 @@
 - https://developer.microsoft.com/en-us/skype/bots
 - http://open.wechat.com/
 
+## Example Telegram Bots
+- [Cyber Collector](https://t.me/cybercollectorbot) - Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
+
 ## List a Bot
 - https://thereisabotforthat.com/
 - https://botlist.co/
