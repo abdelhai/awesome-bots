@@ -49,6 +49,7 @@
 - http://www.alicebot.org/aiml.html
 - https://www.twilio.com/ip-messaging
 - https://github.com/google/bottery
+- https://github.com/xenpian/gusgon.js
 
 ## Design a Bot
 - https://bots.mockuuups.com/
@@ -67,6 +68,7 @@
 - https://telegram.org/blog/bots-2-0
 - https://developer.microsoft.com/en-us/skype/bots
 - http://open.wechat.com/
+- https://developer.gusgon.com
 
 ## List a Bot
 - https://thereisabotforthat.com/
